@@ -19,7 +19,7 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <name>Ricepo</name>
+    <name>ricepo</name>
     <description>
         Order Chinese Food with Ricepo, Simple UI, much faster order experience.
     </description>
