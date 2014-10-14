@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A640B7AC-2267-4DC6-AA5F-F88CFB2A973C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ricepo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>50C2922584549352250F34200355BB06AC7DBC93</key>
+		<string>github.com:areigna/ricepo.git</string>
+		<key>7EA5AE199A3F1031B4FCA17966CCF15FB2BEFF23</key>
+		<string>github.com:areigna/ricepo_phonegap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/ricepo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>50C2922584549352250F34200355BB06AC7DBC93</key>
+		<string>../../../../..</string>
+		<key>7EA5AE199A3F1031B4FCA17966CCF15FB2BEFF23</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:areigna/ricepo_phonegap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7EA5AE199A3F1031B4FCA17966CCF15FB2BEFF23</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>50C2922584549352250F34200355BB06AC7DBC93</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EA5AE199A3F1031B4FCA17966CCF15FB2BEFF23</string>
+			<key>IDESourceControlWCCName</key>
+			<string>phonegap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
